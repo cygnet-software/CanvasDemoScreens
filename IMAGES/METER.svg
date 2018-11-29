@@ -1,0 +1,18 @@
+<svg width="24" height="24" xmlns="http://www.w3.org/2000/svg">
+ <title/>
+ <desc/>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="miu" fill-rule="evenodd" fill="none">
+   <g id="Artboard-1">
+    <g id="slice"/>
+    <path id="circle-dashboard-meter-fuel-gauge-glyph" fill="#0099cc" d="m12.5,23c6.351275,0 11.5,-5.148725 11.5,-11.5c0,-6.351275 -5.148725,-11.5 -11.5,-11.5c-6.351275,0 -11.5,5.148725 -11.5,11.5c0,6.351275 5.148725,11.5 11.5,11.5zm1.48059,-9.043852l0.374591,-7.710416l-2.285118,7.373538l0.493069,2.789678l1.417458,-2.4528zm-8.48059,-2.956148c0,-3.865993 3.134007,-7 7,-7c3.865993,0 7,3.134007 7,7l0.5,0l0.5,0c0,-4.418278 -3.581722,-8 -8,-8c-4.418278,0 -8,3.581722 -8,8l0.5,0l0.5,0z"/>
+   </g>
+  </g>
+ </g>
+</svg>
