@@ -18,4 +18,4 @@ you will need to have that installed. You will also see script that checks via t
 inefficient and will not perform well. It is included to support the case when installing the ODBC driver is 
 not possible.
 
-Requires Canvas 9.2.1005
+Requires Canvas (and all supporting Canvas files) 9.2.1005
