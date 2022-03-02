@@ -8,7 +8,6 @@ description of what the screen is and what it does. (and link to it here)
 
 ## Screens
 
-* [WESC 2018](Demos/WESC2018/README.md) - Walter Goodwater's WESC Demo, 2018
 * [Image Viewer](Demos/ImageViewer/README.md) - A simple demo of the image and dropdown controls
 * Grid - A demo of adding rows to the CygNet Grid via script
 * Comm Stat Screens - Screens that visualize communication statistics
